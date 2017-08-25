@@ -1,0 +1,35 @@
+.App {
+  margin: 10px;
+}
+
+.card{
+  margin: 5px;
+}
+
+.form_wrapper{
+  text-align: center;
+}
+
+.form-group{
+  display: flex;
+  justify-content: center;
+  flex-flow: column nowrap;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.btn-primary{
+  width: 40%;
+  margin: 0 auto;
+  margin-bottom: 25px;
+  background: blue;
+  color: white;
+  border-radius: 25px;
+  font-size: 12px;
+  outline: none;
+}
+
+span{
+  color: blue;
+  font-size: 24px; 
+}
